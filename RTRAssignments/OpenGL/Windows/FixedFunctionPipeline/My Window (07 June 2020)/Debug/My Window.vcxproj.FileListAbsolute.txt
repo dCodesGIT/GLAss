@@ -1,0 +1,2 @@
+C:\MyProjects - RTR\My Window\Debug\My Window.exe
+C:\MyProjects - RTR\My Window\Debug\My Window.pdb
