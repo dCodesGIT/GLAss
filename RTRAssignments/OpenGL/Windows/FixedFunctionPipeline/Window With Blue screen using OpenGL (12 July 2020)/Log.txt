@@ -1,0 +1,4 @@
+Log.txt file created successfully
+Program execution started successfully
+Log.txt file closed successfully
+Program terminated successfully
