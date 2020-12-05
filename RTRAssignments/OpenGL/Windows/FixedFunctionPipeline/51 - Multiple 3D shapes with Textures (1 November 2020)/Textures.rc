@@ -1,0 +1,3 @@
+#include "Textures.h"
+STONE_BITMAP BITMAP Stone.bmp
+KUNDALI_BITMAP BITMAP Vijay_Kundali.bmp
