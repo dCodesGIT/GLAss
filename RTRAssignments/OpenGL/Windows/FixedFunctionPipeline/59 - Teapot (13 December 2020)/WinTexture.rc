@@ -1,0 +1,2 @@
+#include "WinTexture.h"
+MARBLE_BITMAP BITMAP Marble.bmp
