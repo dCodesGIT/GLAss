@@ -1,0 +1,2 @@
+#include "WinTextures.h"
+SMILEY_BITMAP BITMAP Smiley.bmp
