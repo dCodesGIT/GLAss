@@ -1,0 +1,8 @@
+Size of Array1 = 114447770 
+Size of Array2 = 114447770 
+Sum of each element from above 2 arrays creates 3rd array 
+Global work size = 114447872 
+Local work size = 256 
+Time taken on CPU = 234.049393 (ms) 
+Time taken on GPU = 236.741394 (ms) 
+Comparision of output arrays on CPU and GPU are accurate within the limit(0.000001)

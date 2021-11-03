@@ -1,0 +1,29 @@
+ ***** OpenCL Information *****
+ OpenCL supporting GPU platform name : Intel(R) OpenCL HD Graphics
+ OpenCL supporting GPU platform version : OpenCL 2.1 
+ Total number of OpenCL supporting device(s) on this system : 1
+
+ ***** GPU DEVICE GENERAL INFORMATION *****
+ GPU Device Number : 1
+ GPU Device Name : Intel(R) UHD Graphics 630
+ GPU Device Vendor : Intel(R) Corporation
+ GPU Device Drive Version : 27.20.100.8681
+ GPU Device OpenCL Version : OpenCL 2.1 NEO 
+ GPU Device Max. Clock Rate : 1200
+ GPU Device Error Correction Code (ECC) Support : No
+
+ ***** GPU DEVICE MEMORY INFORMATION *****
+ GPU Device Global Memory : 6795579392 bytes
+ GPU Device Local Memory : 65536 bytes
+ GPU Device Constant Buffer Size : 3397789696 bytes
+ GPU Device Memory Allocation Size : 3397789696 bytes
+
+ ***** GPU DEVICE COMPUTE INFORMATION *****
+ GPU Device Number of Parallel Processors Cores : 24
+ GPU Device Work Group Size : 256
+ GPU Device Work Item Dimensions : 3
+ GPU Device Work Item Sizes : 256 256 256
+
+ ***** GPU DEVICE IMAGE SUPPORT *****
+ GPU Device Support 2D image (Width x Height) : 16384 x 16384
+ GPU Device Support 3D image (Width x Height x Depth) : 16384 x 16384 x 2048

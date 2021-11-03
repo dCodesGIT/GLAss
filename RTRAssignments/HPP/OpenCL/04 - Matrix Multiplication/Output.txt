@@ -1,0 +1,9 @@
+1st matrix is from 0th element 0.001251 to 15th element 0.014985
+2nd matrix is from 0th element 0.091403 to 15th element 0.663045
+Multiplication of above 2 matrices creates 3rd matrix as :
+3rd matrix is from 0th element 2142416479673467486493740080562176.000000 to 15th element 0.000000
+Global work size = 256 
+Local work size = 256 
+Time taken on CPU = 0.000300 (ms) 
+Time taken on GPU = 2.693400 (ms) 
+Not all comparision of output arrays on CPU and GPU are accurate within the limit(0.000001)
