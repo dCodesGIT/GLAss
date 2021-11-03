@@ -1,0 +1,2 @@
+Graphics Card Name : Intel(R) UHD Graphics 630 
+Graphics Card Video Memory : 128 MB(134217728 bytes) 
